@@ -10,3 +10,6 @@ This is a collection my thoughts and perspectives on the blockchain from both a 
 This git-hub repo will be used as a convenient place to collect, format and arrange my thoughts.  The contents may form the basis for creating slides or even turning into a book, but the primary aim os personal - to solidify my understanding and think about how best to position blockchain technologies to other people.
 
 ## Sections:
+
+### Whence Came Blockchain
+* [https://github.com/JohnD-EE/AroundTheBlock/blob/master/WhenceCameBlockchain/Section1:SocietyAndRules.md](Section1: Society and Rules)
