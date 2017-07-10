@@ -7,7 +7,9 @@ This section looks at:
 * How consistently good governence leads to trust
 * How our need for governence had led to centralisation
 
-### Our Centralised Interactions:
+## Rules
+
+### Human Interactions:
 Humans interact with one another. The are informal interactions of family and friendship, sharing and socialising. There are also more formal interactions such as organising as a group to accomplish a task, or trading with one another. An interaction is seen as informal or formal according the 'rules' that govern the interactions.  Informal interactions will have a very loose set of rules, and these will be determined by culture and tradition.  There are certain dos and don'ts associated with informal interactions rather than hard-coded rules.  They are implicitly understood and adhered to by the parties involved and these loose rules will change according to the situation. A transgression, such as burping at dinner, may see you having fewer lunch dates, rather than any more of serious repercussions.
 
 Our formal interactions with one another involve hard-coded rules to govern our behaviours.  The rules are enforced, by a tribal leader or council, or by the latter day equivalents of governments, courts and police. Transgression of rules can lead forced reconstitution such as revenge, punishment, ostracism from the tribe or group, imprisonment, extraction of property etc.  In the modern day it can be withdrawal of rights, payment of penalties...
