@@ -1,5 +1,5 @@
 # AroundTheBlock:
-Blockchain Ponderings: An accumulation of blockchain knowledge and perspectives - [https://twitter.com/AroundBlocks](@aroundblocks) on twitter
+Blockchain Ponderings: An accumulation of blockchain knowledge and perspectives - [@aroundblocks](https://twitter.com/AroundBlocks) on twitter
 
 This is a collection my thoughts and perspectives on the blockchain from both a technical, societal and business perspective.  The sections herin may provide the basis for work I aim to do in the future e.g. 
 
@@ -12,4 +12,4 @@ This git-hub repo will be used as a convenient place to collect, format and arra
 ## Sections:
 
 ### Whence Came Blockchain
-* [https://github.com/JohnD-EE/AroundTheBlock/blob/master/WhenceCameBlockchain/Section1:SocietyAndRules.md](Section1: Society and Rules)
+* [Section1: Society and Rules](https://github.com/JohnD-EE/AroundTheBlock/blob/master/WhenceCameBlockchain/Section1:SocietyAndRules.md)
