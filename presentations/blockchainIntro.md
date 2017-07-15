@@ -34,11 +34,14 @@
 * Multiplier effect
 * All Money is Debt - If all debts were paid there would be no money
 
-## Vulnerabilities
+## Systemic Vulnerabilities
 
+* Over lending - E.g. Sub Prime Mortgages
 * Bank Runs (Royal Bank of Scotland)
-* SUb Prime Mortgages
+* Bailouts - 'Too big to fail' (Privatisation of Profits, Socialisation of risk)
+* Fraud, corruption and bank scandals (Libor, PPI)
 * Quantitative Easing
 * Inflation and Hyperinflation
-* UK Debt = £1.7 Trillion, £1 Billion per week in interest
+* UK Debt = £1.7 Trillion, nearly £1 Billion per week in interest
+* Economic addiction to GDP growth
 
