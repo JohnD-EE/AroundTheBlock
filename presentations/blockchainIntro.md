@@ -1,11 +1,11 @@
-### Blockchain Intro
+# Blockchain Intro
 
 
 ### Agenda
 
 
 
-### Centralised / Decentralised / Distributed
+## Centralised / Decentralised / Distributed
 
 * Trust
 * Control
