@@ -12,21 +12,21 @@
 * Truth
 * Security
 
-### Money
+## Money
 
 * Centralised
 * Government
 * Banks
 * Trust, Conntrol, Truth, Security
 
-### Money as Tokenised Barter
+## Money as Tokenised Barter
 
 * Cowry Shells / Beads / Giant Stones / Tally Sticks / Precious Metals
 * Tokenised Barter, a representation of value
 * Anglo-Saxon Pound of Silver - Sterling
 * Gold Standard
 
-### Fractional Reserve Banking
+## Fractional Reserve Banking
 
 * A deposit is a 'loan' to the bank
 * Reserve requiremnt - fraction of its deposit liabilities (money owed to depositors). 
@@ -34,7 +34,7 @@
 * Multiplier effect
 * All Money is Debt - If all debts were paid there would be no money
 
-### Vulnerabilities
+## Vulnerabilities
 
 * Bank Runs (Royal Bank of Scotland)
 * SUb Prime Mortgages
