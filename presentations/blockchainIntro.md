@@ -83,7 +83,7 @@
 * 
 * Nowhere near Mainstream adoption
 
-## Bitcoin Mechanics
+## Bitcoin Accounts
 
 * Account is a Hashed address - Private / Public Key Pairs -  QR Codes
 * Wallets - Full Node, Light, Online, Paper
@@ -97,9 +97,10 @@
 * Blocks of Transactions as individual files
 * Genesis Block - [Block#0](https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
 * Mining & Proof of Work
-* Finding a Hash - SHA256 256 bit string - Brute Force
+* Finding a Hash - SHA256 256 bit hexadecimal string - Brute Force
 * One Block every 10 minutes, 144 per day, 
 * Difficulty Calibration
+* Miner rewards
 * Mining Pools and Hash Rate
 * Consensus, Confirmations and Block Depth / Height
 * 51% Attack
