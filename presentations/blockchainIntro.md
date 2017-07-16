@@ -27,9 +27,11 @@
 * Cowry Shells / Beads / Giant Stones / Tally Sticks / Precious Metals
 * Tokenised Barter, a representation of value
 * Anglo-Saxon Pound of Silver - Sterling
-* Goldsmiths & Birth of Banking
-* Fiat Currency (State Authorised)
-* Gold Standard
+* 17th Century Goldsmith Banking - Birth of Modern Banking
+* Gold Standard - Abandoned UK in 1931, USA in 1933
+* Fiat Currency (By order of the State) - Latin = fieri, "an arbitrary act or decree"
+* Value of fiat solely from government decree dictating legal tender
+
 
 ## Fractional Reserve Banking
 
