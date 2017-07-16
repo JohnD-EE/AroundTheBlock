@@ -28,7 +28,7 @@
 * Tokenised Barter, a representation of value
 * Anglo-Saxon Pound of Silver - Sterling
 * 17th Century Goldsmith Banking - Birth of Modern Banking
-* Gold Standard - Abandoned UK in 1931, USA in 1933
+* Gold Standard, convertabily to gold - Abandoned UK in 1931, USA in 1933
 * Fiat Currency (By order of the State) - Latin = fieri, "an arbitrary act or decree"
 * Value of fiat solely from government decree dictating legal tender
 
