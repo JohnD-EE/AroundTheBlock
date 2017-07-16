@@ -59,25 +59,46 @@
 * Trust in the Open Source codebase
 * Truth is in the public ledger & network consensus.
 * Free Market, Capitalism, no intervention
-* Responsibility with user - you are your own bank
+* Responsibility with user - you are your own bank - Private / Public key pairs
 * Evolution through voting (e.g. Segwit)
 
 ## History of Bitcoin
 
 * Cypherpunks & cryptography
-* Satoshi Nakamoto White Paper
+* Satoshi Nakamoto White Paper, bitcoin and blockchain
 * 10,000 bitcoin Pizzas
+* Other Cryptocurrencies, AltCoins, Bitcoin Forks [Historical Snapshot 7th July 2013](https://coinmarketcap.com/historical/20130707/)
 * Etc...
+* MtGox
+* Other uses of blockchain
+* Vitalek Buterin and Ethereum
+* 
+* Nowhere near Mainstream adoption
 
-## Blockchain
+## Bitcoin Mechanics
+
+* Account is a Hashed address - Private / Public Key Pairs -  QR Codes
+* Wallets - Full Node, Light, Online, Paper
+* Buying bitcoin
+* Legalities
+* Transactions & confirmations
+
+
+## Bitcoin Blockchain
 
 * Blocks of Transactions as individual files
 * Genesis Block - [Block#0](https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
 * Mining & Proof of Work
 * Finding a Hash - SHA256 256 bit string - Brute Force
+* One Block every 10 minutes, 144 per day, 
 * Difficulty Calibration
 * Mining Pools and Hash Rate
 * Consensus, Confirmations and Block Depth / Height
 * 51% Attack
+
+## Bitcoin Price
+
+* Determined by Markets
+* Uncertainty & Volatility
 
 
