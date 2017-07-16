@@ -11,6 +11,8 @@
 * Control
 * Truth
 * Security
+* Privacy
+* Single Point of Failure (Datacenter)
 
 ## Money
 
@@ -19,20 +21,23 @@
 * Banks
 * Trust, Conntrol, Truth, Security
 
-## Money as Tokenised Barter
+## Money
 
+* Tokenised Barter
 * Cowry Shells / Beads / Giant Stones / Tally Sticks / Precious Metals
 * Tokenised Barter, a representation of value
 * Anglo-Saxon Pound of Silver - Sterling
 * Gold Standard
+* Fiat Currency (State Authorised)
 
 ## Fractional Reserve Banking
 
-* A deposit is a 'loan' to the bank
-* Reserve requiremnt - fraction of its deposit liabilities (money owed to depositors). 
-* Held as currency or as central bank deposits.
+* Your deposit is a 'loan' to the bank
+* Reserve requiremnt / Reserve Ratio - fraction of its deposit liabilities (money owed to depositors)
+* Held as currency or as central bank deposits
 * Multiplier effect
 * All Money is Debt - If all debts were paid there would be no money
+* Money created through private bank lending and govt. issuance
 
 ## Systemic Vulnerabilities
 
@@ -44,4 +49,28 @@
 * Inflation and Hyperinflation
 * UK Debt = £1.7 Trillion, nearly £1 Billion per week in interest
 * Economic addiction to GDP growth
+* Stability requires intervention from Govt. & Central Banks
+
+** Bitcoin
+
+* No Bitcoin CEO, No Bitcoin buildings or HQ, no central control
+* Distributed public ledger
+* Peer to Peer, processing transactions via mining nodes.
+* Trust in the Open Source codebase
+* Truth is in the public ledger & network consensus.
+* Free Market, Capitalism, no intervention
+* Responsibility with user - you are your own bank
+* Evolution through voting (e.g. Segwit)
+
+** History of Bitcoin
+
+* Cypherpunks & cryptography
+* Satoshi Nakamoto White Paper
+* 10,000 bitcoin Pizzas
+* Etc
+
+** Blockchain
+
+* Blocks of Transactions
+* 
 
