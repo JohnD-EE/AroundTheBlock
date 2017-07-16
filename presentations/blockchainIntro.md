@@ -61,7 +61,7 @@
 ## Bitcoin
 
 * No Bitcoin CEO, No Bitcoin buildings or HQ, no central control
-* Distributed public ledger
+* Distributed and immutable public ledger
 * Peer to Peer, processing transactions via mining nodes.
 * Trust in the Open Source codebase
 * Truth is in the public ledger & network consensus.
@@ -94,7 +94,7 @@
 
 ## Bitcoin Blockchain
 
-* Blocks of Transactions as individual files
+* Blocks of Transactions as individual immutable files
 * Genesis Block - [Block#0](https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
 * Mining & Proof of Work
 * Finding a Hash - SHA256 256 bit hexadecimal string - Brute Force
