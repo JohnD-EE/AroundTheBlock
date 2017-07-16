@@ -75,6 +75,7 @@
 * Other Cryptocurrencies, AltCoins, Bitcoin Forks [Historical Snapshot 7th July 2013](https://coinmarketcap.com/historical/20130707/)
 * Etc...
 * MtGox
+* Dark Web, The Silk Road, Ransomware, Criminality
 * Other uses of blockchain
 * Vitalek Buterin and Ethereum
 * 
