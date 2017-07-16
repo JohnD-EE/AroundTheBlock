@@ -12,7 +12,9 @@
 * Truth
 * Security
 * Privacy
-* Single Point of Failure (Datacenter)
+* Rules
+* Governence
+* Single Point of Failure
 
 ## Money
 
