@@ -38,6 +38,7 @@
 * Multiplier effect
 * All Money is Debt - If all debts were paid there would be no money
 * Money created through private bank lending and govt. issuance
+* High cost of banking - buildings, infrastructure, staff, transactions
 
 ## Systemic Vulnerabilities
 
