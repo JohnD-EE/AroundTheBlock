@@ -27,8 +27,9 @@
 * Cowry Shells / Beads / Giant Stones / Tally Sticks / Precious Metals
 * Tokenised Barter, a representation of value
 * Anglo-Saxon Pound of Silver - Sterling
-* Gold Standard
+* Goldsmiths & Birth of Banking
 * Fiat Currency (State Authorised)
+* Gold Standard
 
 ## Fractional Reserve Banking
 
