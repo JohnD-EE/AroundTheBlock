@@ -21,9 +21,9 @@
 * Banks
 * Trust, Conntrol, Truth, Security
 
-## Money
+## History of Money
 
-* Tokenised Barter
+* Barter
 * Cowry Shells / Beads / Giant Stones / Tally Sticks / Precious Metals
 * Tokenised Barter, a representation of value
 * Anglo-Saxon Pound of Silver - Sterling
