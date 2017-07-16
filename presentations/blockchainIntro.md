@@ -77,7 +77,7 @@
 * Finding a Hash - SHA256 256 bit string - Brute Force
 * Difficulty Calibration
 * Mining Pools and Hash Rate
-* Consensus and Block Depth 
+* Consensus, Confirmations and Block Depth / Height
 * 51% Attack
 
 
