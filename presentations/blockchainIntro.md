@@ -99,7 +99,7 @@
 * Mining & Proof of Work
 * Finding a Hash - SHA256 256 bit hexadecimal string - Brute Force
 * One Block every 10 minutes, 144 per day, 
-* Difficulty Calibration
+* Difficulty Calibration - every 2 weeks (2016 blocks)
 * Miner rewards
 * Mining Pools and Hash Rate
 * Consensus, Confirmations and Block Depth / Height
