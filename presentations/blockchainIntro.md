@@ -51,7 +51,7 @@
 * Economic addiction to GDP growth
 * Stability requires intervention from Govt. & Central Banks
 
-** Bitcoin
+## Bitcoin
 
 * No Bitcoin CEO, No Bitcoin buildings or HQ, no central control
 * Distributed public ledger
@@ -62,15 +62,22 @@
 * Responsibility with user - you are your own bank
 * Evolution through voting (e.g. Segwit)
 
-** History of Bitcoin
+## History of Bitcoin
 
 * Cypherpunks & cryptography
 * Satoshi Nakamoto White Paper
 * 10,000 bitcoin Pizzas
-* Etc
+* Etc...
 
-** Blockchain
+## Blockchain
 
-* Blocks of Transactions
-* 
+* Blocks of Transactions as individual files
+* Genesis Block - Block#0 - [https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f](Blockinfo)
+* Mining & Proof of Work
+* Finding a Hash - SHA256 256 bit string - Brute Force
+* Difficulty Calibration
+* Mining Pools and Hash Rate
+* Consensus and Block Depth 
+* 51% Attack
+
 
