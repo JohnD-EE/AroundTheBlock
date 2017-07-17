@@ -62,9 +62,13 @@
 * Economic addiction to GDP growth
 * Stability requires intervention from Govt. & Central Banks
 
+> *"No return to boom and bust"* - Gordon Brown, British Prime Minister, pre-2008 crash
+
+> *"Banks 'very much stronger'; another financial crisis not likely 'in our lifetime'"* - Janet Yellen, Chair of the Board of Governors of the Federal Reserve, June 2017
+
 ## Bitcoin
 
-* No Bitcoin CEO, No Bitcoin buildings or HQ, no central control
+* No Bitcoin CEO, No Bitcoin buildings or HQ, no central authority
 * Distributed and immutable public ledger
 * Peer to Peer, processing transactions via mining nodes - no need for intermediaries such as financial institutions.
 * Trust in the Open Source codebase - [Bitcoin on Github](https://github.com/bitcoin/bitcoin)
