@@ -23,6 +23,8 @@
 * Banks
 * Trust, Conntrol, Truth, Security
 
+![Bank of England](http://www.telegraph.co.uk/content/dam/business/spark/sme-home/hp/Bank-of-england-large_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg)
+
 ## History of Money
 
 * Barter
@@ -35,6 +37,7 @@
 * Fiat Currency (By order of the State) - Latin = fieri, "an arbitrary act or decree"
 * Value of fiat solely from government decree dictating legal tender
 
+> *"Gold Is Money, Everything Else Is Credit"* - JP Morgan
 
 ## Fractional Reserve Banking
 
@@ -62,7 +65,7 @@
 
 * No Bitcoin CEO, No Bitcoin buildings or HQ, no central control
 * Distributed and immutable public ledger
-* Peer to Peer, processing transactions via mining nodes.
+* Peer to Peer, processing transactions via mining nodes - no need for intermediaries such as financial institutions.
 * Trust in the Open Source codebase
 * Truth is in the public ledger & network consensus.
 * Free Market, Capitalism, no intervention
@@ -73,7 +76,7 @@
 
 * Cypherpunks & cryptography
 * Satoshi Nakamoto [White Paper](https://bitcoin.org/bitcoin.pdf) - "Bitcoin: A Peer-to-Peer Electronic Cash System" - 31st Oct 2008
-* Genesis Block - 3rd Jan 2009 - "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" ![Bitcoin: A Peer-to-Peer Electronic Cash System](http://blockchain.global/wp-content/uploads/2017/02/Satoshis-Message.jpg)
+* Genesis Block - 3rd Jan 2009 - "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" 
 * 10,000 bitcoin Pizzas
 * Other Cryptocurrencies, AltCoins, Bitcoin Forks [Historical Snapshot 7th July 2013](https://coinmarketcap.com/historical/20130707/)
 * Etc...
@@ -83,6 +86,8 @@
 * Vitalek Buterin and Ethereum
 * 
 * Nowhere near Mainstream adoption
+
+![Bitcoin: A Peer-to-Peer Electronic Cash System](http://blockchain.global/wp-content/uploads/2017/02/Satoshis-Message.jpg)
 
 ## Bitcoin Accounts
 
