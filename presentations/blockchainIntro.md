@@ -1,8 +1,10 @@
 # Blockchain Intro
 
 
-### Agenda
+## Warning
 
+* May contain bull-shit
+* Watch out for the bias of the presenter
 
 
 ## Centralised / Decentralised / Distributed
