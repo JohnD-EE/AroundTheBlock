@@ -128,12 +128,12 @@
 * S Curves (Logistic function)
 * Gartner Hype Cycles
 
-###### Diffusion of Innovation
+### Diffusion of Innovation
 ![Diffusion of Innovation](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Diffusion_of_ideas.svg/800px-Diffusion_of_ideas.svg.png)
 
-###### Technology Adoption S Curves
+### Technology Adoption S Curves
 ![Technology Adoption S Curves](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAeIAAAAJDgzYmZlZTcyLTFhN2UtNGUzNi05OWU3LTZkY2ZmY2E4MDlhNg.jpg)
 
-###### Gartner Hype Cycle - Emerging Tech 2016
+### Gartner Hype Cycle - Emerging Tech 2016
 ![Gartner Hype Cycle - Emerging Tech 2016](http://na2.www.gartner.com/imagesrv/newsroom/images/emerging-tech-hc-2016.png;wa59f7b006c484099e)
 
