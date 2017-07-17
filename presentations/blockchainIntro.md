@@ -37,7 +37,6 @@
 * Fiat Currency (By order of the State) - Latin = fieri, "an arbitrary act or decree"
 * Value of fiat solely from government decree dictating legal tender
 
-> *"Gold Is Money, Everything Else Is Credit"* - JP Morgan
 
 ## Fractional Reserve Banking
 
@@ -48,6 +47,8 @@
 * All Money is Debt - If all debts were paid there would be no money
 * Money created through private bank lending and govt. issuance
 * High cost of banking - buildings, infrastructure, staff, transactions
+
+> *"Gold Is Money, Everything Else Is Credit"* - JP Morgan
 
 ## Systemic Vulnerabilities
 
@@ -66,7 +67,7 @@
 * No Bitcoin CEO, No Bitcoin buildings or HQ, no central control
 * Distributed and immutable public ledger
 * Peer to Peer, processing transactions via mining nodes - no need for intermediaries such as financial institutions.
-* Trust in the Open Source codebase
+* Trust in the Open Source codebase - [Bitcoin on Github](https://github.com/bitcoin/bitcoin)
 * Truth is in the public ledger & network consensus.
 * Free Market, Capitalism, no intervention
 * Responsibility with user - you are your own bank - Private / Public key pairs
