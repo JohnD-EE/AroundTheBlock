@@ -94,7 +94,7 @@
 * 
 * Nowhere near Mainstream adoption
 
-![Bitcoin: A Peer-to-Peer Electronic Cash System](http://blockchain.global/wp-content/uploads/2017/02/Satoshis-Message.jpg)
+![Bitcoin: A Peer-to-Peer Electronic Cash System](http://blockchain.global/wp-content/uploads/2017/02/Satoshis-Message.jpg =250x)
 
 ## Bitcoin Accounts
 
