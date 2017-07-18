@@ -150,7 +150,7 @@
 * Gartner Hype Cycles
 
 ### Diffusion of Innovation
-<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Diffusion_of_ideas.svg/800px-Diffusion_of_ideas.svg.png" width="400" height="30"></a>
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Diffusion_of_ideas.svg/800px-Diffusion_of_ideas.svg.png" width="400" height="300"></a>
 
 ### Technology Adoption S Curves
 ![Technology Adoption S Curves](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAeIAAAAJDgzYmZlZTcyLTFhN2UtNGUzNi05OWU3LTZkY2ZmY2E4MDlhNg.jpg)
