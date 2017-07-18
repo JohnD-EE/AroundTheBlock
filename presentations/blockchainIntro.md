@@ -4,7 +4,7 @@
 ## Warning
 
 * May contain bull-shit
-* Watch out for the bias of the presenter
+* Beware the bias of the presenter
 
 
 ## Centralised / Decentralised / Distributed
@@ -150,7 +150,7 @@
 * Gartner Hype Cycles
 
 ### Diffusion of Innovation
-![Diffusion of Innovation](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Diffusion_of_ideas.svg/800px-Diffusion_of_ideas.svg.png)
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Diffusion_of_ideas.svg/800px-Diffusion_of_ideas.svg.png" width="400" height="30"></a>
 
 ### Technology Adoption S Curves
 ![Technology Adoption S Curves](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAeIAAAAJDgzYmZlZTcyLTFhN2UtNGUzNi05OWU3LTZkY2ZmY2E4MDlhNg.jpg)
