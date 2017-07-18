@@ -18,6 +18,8 @@
 * Governence
 * Single Point of Failure
 
+
+
 ## Money
 
 * Centralised
@@ -25,7 +27,10 @@
 * Banks
 * Trust, Conntrol, Truth, Security
 
-![Bank of England](http://www.telegraph.co.uk/content/dam/business/spark/sme-home/hp/Bank-of-england-large_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg)
+### Bank of England
+<a href="url"><img src="http://www.telegraph.co.uk/content/dam/business/spark/sme-home/hp/Bank-of-england-large_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg" width="360" height="225"></a>
+
+
 
 ## History of Money
 
@@ -40,6 +45,7 @@
 * Value of fiat solely from government decree dictating legal tender
 
 
+
 ## Fractional Reserve Banking
 
 * Your deposit is a 'loan' to the bank
@@ -51,6 +57,8 @@
 * High cost of banking - buildings, infrastructure, staff, transactions
 
 > *"Gold Is Money, Everything Else Is Credit"* - JP Morgan
+
+
 
 ## Systemic Vulnerabilities
 
@@ -68,6 +76,8 @@
 
 > *"Banks 'very much stronger'; another financial crisis not likely 'in our lifetime'"* - Janet Yellen, Chair of the Board of Governors of the Federal Reserve, June 2017
 
+
+
 ## Bitcoin
 
 * No Bitcoin CEO, No Bitcoin buildings or HQ, no central authority
@@ -78,6 +88,8 @@
 * Free Market, Capitalism, no intervention
 * Responsibility with user - you are your own bank - Private / Public key pairs
 * Evolution through voting (e.g. Segwit)
+
+
 
 ## History of Bitcoin
 
@@ -94,7 +106,10 @@
 * 
 * Nowhere near Mainstream adoption
 
-<a href="url"><img src="http://blockchain.global/wp-content/uploads/2017/02/Satoshis-Message.jpg" width="300" height="390" ></a>
+### Satoshi's message: 'The Times 03/Jan/2009 Chancellor on brink of second bailout for banks'
+<a href="url"><img src="http://blockchain.global/wp-content/uploads/2017/02/Satoshis-Message.jpg" width="300" height="390"></a>
+
+
 
 ## Bitcoin Accounts
 
@@ -118,10 +133,14 @@
 * Consensus, Confirmations and Block Depth / Height
 * 51% Attack
 
+
+
 ## Bitcoin Price
 
 * Determined by Markets
 * Uncertainty & Volatility
+
+
 
 ## Technology Adoption
 
