@@ -158,3 +158,15 @@
 ### Gartner Hype Cycle - Emerging Tech 2016
 ![Gartner Hype Cycle - Emerging Tech 2016](http://na2.www.gartner.com/imagesrv/newsroom/images/emerging-tech-hc-2016.png;wa59f7b006c484099e)
 
+
+## Asset Classes
+
+* Stocks & Shares (equities)
+* Fixed Income (bonds)
+* Cash
+* FX - Foreign Exchange (currencies)
+* Real Estate (land & property)
+* Commodoites (Physical Stuff - gold, silver, oil, wheat, corn)
+
+* Cryptocurrecnies as a new asset class?
+
