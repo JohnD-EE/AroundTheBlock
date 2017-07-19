@@ -83,7 +83,8 @@
 * No Bitcoin CEO, No Bitcoin buildings or HQ, no central authority
 * Distributed and immutable public ledger
 * Peer to Peer, processing transactions via mining nodes - no need for intermediaries such as financial institutions.
-* Trust in the Open Source codebase - [Bitcoin on Github](https://github.com/bitcoin/bitcoin)
+* Decentralised Trust - Trustless Transactions
+* Open Source codebase - [Bitcoin on Github](https://github.com/bitcoin/bitcoin)
 * Truth is in the public ledger & network consensus.
 * Free Market, Capitalism, no intervention
 * Responsibility with user - you are your own bank - Private / Public key pairs
