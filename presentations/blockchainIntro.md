@@ -131,6 +131,7 @@
 * Miner rewards
 * Mining Pools and Hash Rate
 * Consensus, Confirmations and Block Depth / Height
+* All transactions can be scruitinised and validated by anyone
 * 51% Attack
 
 
