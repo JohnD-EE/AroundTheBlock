@@ -167,7 +167,6 @@
 * FX - Foreign Exchange (currencies)
 * Real Estate (land & property)
 * Commodoites (Physical Stuff - gold, silver, oil, wheat, corn)
-
 * Cryptocurrecnies as a new asset class?
 
 ## Functions of Money
