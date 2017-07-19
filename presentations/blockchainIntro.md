@@ -199,4 +199,11 @@
 
 ## What is a Wallet?
 
-
+* Software which reads information from the blockchain and 'key storage' account files
+* Does not store coins or account balance
+* Account details, balances, transactions and currency prices are shown in the UI
+* The account balance is read from blockchain files
+* The wallet software allows the initiation of transactions
+* wallet.dat file for 'Bitcoin Core' wallets. Stores public/private keypairs for each account address, transactions,
+* Ethereum wallets store individual accounts as timestamped files. Balance and transaction info is read from the blockchain
+* Wa
