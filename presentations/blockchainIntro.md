@@ -170,3 +170,33 @@
 
 * Cryptocurrecnies as a new asset class?
 
+## Functions of Money
+
+* Medium of exchange
+* Store of value
+* Unit of account
+
+## Characteristics of Money
+
+1. Durability
+1. Portability
+1. Divisibility
+1. Uniformity
+1. Limited Supply
+1. Acceptibility
+
+
+## Cryptocurrency Account Storage
+
+* Local (desktop) Wallet. Lightweight, or Full Node
+* Mobile Wallet
+* Browser Extensions (e.g. Metamask)
+* Online Web Wallet - e.g. Crypto Exchange
+* Paper (Offline Cold Storage)
+* USB or other device (Offline Cold Storage)
+* Hardware Wallet (Offline Cold Storage - E.g. Trezor / Ledger Nano)
+* Your Memory (Offline, Very Cold Storage)
+
+## What is a Wallet?
+
+
