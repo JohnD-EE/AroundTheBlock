@@ -3,11 +3,11 @@
 * It was built on a technology called 'Blockchain'
 * In recent years, people have focused on Blockchain as being potentially more revolutionary than bitcoin
 * To understand the domain the following will be covered:
- * What is money?
- * Why does currecny need a rovultion?
- * What is Bitcoin and how does it work?
- * What is the Blockchain?
- * Why is the Blockhain considered 'revolutionary'?
+    * What is money?
+    * Why does currecny need a rovultion?
+    * What is Bitcoin and how does it work?
+    * What is the Blockchain?
+    * Why is the Blockhain considered 'revolutionary'?
 
 ## Warning
 
