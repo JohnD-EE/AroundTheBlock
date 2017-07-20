@@ -159,6 +159,14 @@
 | Governance & Control | Centralised | Decentralised |
 | Money Supply | Determined by the State & Prvate Banks | Known and Scheduled at Coin Genesis |
 | Accessibility | Participation requires a bank account | Anyone can easily create an account |
+| Fees | Bank account fees and costly transfers | Zero account fees, low transaction costs |
+| Privacy | Bank accounts linked to personal identities | Anonymous |
+| Transparency | Accounts & transactions are private | Account and transaction activity is public |
+| Ease of Tranfer | Can be cumbersome (cheques, international transfers) | Easy |
+| Transaction Speed | Slow to clear | Clears within minutes |
+| Security | Fraud is common | Immutable ledger, but you may personally be hacked |
+| Protection | Government protection available | You are solely responsible |
+
 
 
 
