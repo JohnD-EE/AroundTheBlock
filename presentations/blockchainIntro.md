@@ -204,7 +204,8 @@
 
 * Medium of exchange
 * Store of value
-* Unit of account
+* Unit of account / Means of valuation - information about relative values
+* Standard of deferred payment
 
 ## Characteristics of Money
 
