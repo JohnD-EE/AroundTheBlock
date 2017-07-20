@@ -207,12 +207,15 @@
 
 ## Characteristics of Money
 
-1. Durability
-1. Portability
-1. Divisibility
-1. Uniformity
-1. Limited Supply
-1. Acceptibility
+* Durability
+* Portability
+* Divisibility
+* Uniformity / Fungibility
+* Limited Supply / Sufficiently Rare
+* Acceptibility / Good History of Acceptance
+* Un-consumable
+
+> A cow or oil is an asset, but could not be classed as money because they do not satisfy the above criteria 
 
 
 ## Cryptocurrency Account Storage
