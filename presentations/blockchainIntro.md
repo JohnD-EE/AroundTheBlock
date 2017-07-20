@@ -1,5 +1,8 @@
-# Blockchain Intro
-
+## Blockchain Intro
+* Bitcoin was introduced with the aim of 'revolutionising currency'
+* It was built on a technology called 'Blockchain'
+* In recent years, people have focused on Blockchain as being potentially more revolutionary than bitcoin
+* To understand the domain the following will be covered:
 
 ## Warning
 
@@ -142,6 +145,7 @@
 * Determined by Markets
 * Uncertainty & Volatility
 
+## Bitcoin Money Supply
 
 
 ## Technology Adoption
@@ -208,6 +212,19 @@
 * wallet.dat file for 'Bitcoin Core' wallets. Stores public/private keypairs for each account address as well as transactions. Each wallet.dat file can contain multiple accounts
 * Ethereum Geth wallets store accounts as individual timestamped files, one per account. Balance and transaction info is read from the blockchain.  No transaction data is held in the account files.
 
+## Blockchain Transactions
+
+* Inputs and Outputs
+* Transaction Fees
+* Mining
+* Consensus
+* Confirmations
+
+## Blockchain Explorers / Scanners
+
+* Bitcoin block explorers - [BlockExplorer](https://blockexplorer.com/); [Blockchain](https://blockchain.info/); [Blockr](http://blockr.io/)
+* Ethereum 
+
 ## Anatomy of the Blockchain
 
 * Blocks
@@ -216,7 +233,10 @@
 * Transactions
 * Merkle Trie
 
+## Vitalek Buterin and Ethereum
 
+
+## Smart Contracts
 
 
 ## Blockchain Protocols
@@ -229,7 +249,20 @@
 * Symbiont - Financial Markets
 
 
+
+## Decentralised Applications
+
+## DAO Distributed Autonomous Organisations
+
+
 ## Blockchain Use Case Implementations
 
+## Blockchain Threats and Limitations
+* Transaction Speed
+* Scalability
+* Security and Malicious Actors
+* Political - Consensus Methods, Forks, Block Size, Evolution
+* Network - Large and evenly distributed network (51% Attack)
+* Quantum Computing
 
-## Blockchain limitations
+##
