@@ -166,6 +166,7 @@
 | Transaction Speed | Slow to clear | Clears within minutes |
 | Security | Fraud is common | Immutable ledger, but you may personally be hacked |
 | Protection | Government protection available | You are solely responsible |
+| Repudiation |   | Depends upon recipient |
 
 
 
