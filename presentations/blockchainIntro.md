@@ -167,6 +167,7 @@
 | Security | Fraud is common | Immutable ledger, but you may personally be hacked |
 | Protection | Government protection available | You are solely responsible |
 | Repudiation |   | Depends upon recipient |
+| Ownership | Your deposit is a loan to the bank (a liability in their accounts) | You have full ownership |
 
 
 
