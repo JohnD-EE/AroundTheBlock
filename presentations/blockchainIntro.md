@@ -106,6 +106,7 @@
 * Satoshi Nakamoto [White Paper](https://bitcoin.org/bitcoin.pdf) - "Bitcoin: A Peer-to-Peer Electronic Cash System" - 31st Oct 2008
 * Genesis Block - 3rd Jan 2009 - "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" 
 * 10,000 bitcoin Pizzas
+* Bitcoin pioneers: Nerds, Investors and Anarchists
 * Other Cryptocurrencies, AltCoins, Bitcoin Forks [Historical Snapshot 7th July 2013](https://coinmarketcap.com/historical/20130707/)
 * Etc...
 * MtGox
