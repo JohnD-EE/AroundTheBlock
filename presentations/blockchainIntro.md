@@ -152,6 +152,15 @@
 
 ## Bitcoin Money Supply
 
+## Bitcoin Comparison to Other Currencies
+
+| | Fiat Currency | Bitcoin | 
+| --- | --- | --- |
+| Governance & Control | Centralised | Decentralised |
+| Money Supply | Determined by the State & Prvate Banks | Known and Scheduled at Coin Genesis |
+| Accessibility | Participation requires a bank account | Anyone can easily create an account |
+
+
 
 ## Technology Adoption
 
