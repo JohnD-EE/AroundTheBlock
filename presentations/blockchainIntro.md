@@ -249,6 +249,15 @@
 * Consensus
 * Confirmations
 
+## Bitcoin Transactions
+
+* Inputs and Outputs
+* UTXO - The balance of a bitcoin address is the unspent Transaction Outputs pointing to that address. Outputs from other transactions pointing to a given address
+* New transaction is built from one or more inputs (outputs from previous transactions)  . e.g. composed of loose change
+* The output(s) of this transactions are inputs into target address. 
+* Encumberance (need to be digital singed by target address in order to be respent)
+* If inputs are larger than transaction size then an output is generated to return payment back to sending address
+
 ## Blockchain Explorers / Scanners
 
 * Bitcoin block explorers - [BlockExplorer](https://blockexplorer.com/); [Blockchain](https://blockchain.info/); [Blockr](http://blockr.io/)
