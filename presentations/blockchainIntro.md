@@ -252,9 +252,10 @@
 ## Bitcoin Transactions
 
 * Inputs and Outputs
-* Bitcoin is analogous to how cash moves around a system, rahter than balances in a bank account
 * UTXO - The balance of a bitcoin address is the unspent Transaction Outputs pointing to that address. Outputs from other transactions pointing to a given address
 * UTXO curl https://blockchain.info/unspent?active=1JCe8z4jJVNXSjohjM4i9Hh813dLCNx2Sy 
+* Bitcoin is analogous to how cash moves around a system, rather than balances in a bank account
+* There is no balance held on the blockchain, the balance for an account (e.g. address) is *derived* from the UTXOs
 * New transaction is built from one or more inputs (outputs from previous transactions)  . e.g. composed of loose change
 * The output(s) of this transactions are inputs into target address. 
 * Encumberance (need to be digital singed by target address in order to be respent)
