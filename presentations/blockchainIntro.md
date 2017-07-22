@@ -252,16 +252,18 @@
 ## Bitcoin Transactions
 
 * Inputs and Outputs
-* UTXO - The balance of a bitcoin address is the unspent Transaction Outputs pointing to that address. Outputs from other transactions pointing to a given address
-* UTXO curl https://blockchain.info/unspent?active=1JCe8z4jJVNXSjohjM4i9Hh813dLCNx2Sy 
-* Bitcoin is analogous to how cash moves around a system, rather than balances in a bank account
-* There is no balance held on the blockchain, the balance for an account (e.g. address) is *derived* from the UTXOs
-* New transaction is built from one or more inputs (outputs from previous transactions)  . e.g. composed of loose change
-* The output(s) of this transactions are inputs into target address. 
-* Encumberance (need to be digital singed by target address in order to be respent)
-* If inputs are larger than transaction size then an output is generated to return payment back to sending address
-* The transaction is communicated to a node the sender is connected to and quickly propegated to other nodes
-* Misconception that we must wait 10 mins for transaction to be processed (mined)
+   * UTXO - The balance of a bitcoin address is the unspent Transaction Outputs pointing to that address. Outputs from other transactions pointing to a given address. UTXO = curl https://blockchain.info/unspent?active=1JCe8z4jJVNXSjohjM4i9Hh813dLCNx2Sy 
+   * Bitcoin is analogous to how cash moves around a system, rather than balances in a bank account
+   * There is no balance held on the blockchain, the balance for an account (e.g. address) is *derived* from the UTXOs
+* New transaction: 
+   * Built from one or more inputs (outputs from previous transactions)  . e.g. composed of loose change
+   * The output(s) of this transactions are inputs into target address. 
+   * The bitcoin wallet software would reference UTXOs from previous transactions as intputs into the new transaction
+   * Encumberance (need to be digital singed by target address in order to be respent)
+   * If inputs are larger than transaction size then an output is generated to return payment back to sending address
+* Communicating & processing the new transaction
+    * The transaction is communicated to a node the sender is connected to and quickly propegated to other nodes
+    * Misconception that we must wait 10 mins for transaction to be processed (mined)
     * Recipient wallet can verify that the transaction is well formed of UTXO
     * If tranasction is very small then retaier could confidently accept it as a valid transaction without waiting for confirmations with little risk.
 
