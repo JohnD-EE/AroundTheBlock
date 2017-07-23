@@ -338,3 +338,13 @@
 * It would be very difficult for a classical computer to calculate the private key to a bitcoin account, but relatively easy for a quantum computer
 * We have no idea when Quantum Computing will be a reality
 * We have no idea about the limits of technology
+
+## Can a private key be hacked?
+
+* A private key (e.g. for Bitcoin) is 32 bytes or 256 bits
+* There are 2^256 possible private key combinations (1.1579209e+77 which is a 78 digit number)
+* The bitcoin network currently does 6,000,000 Terra Hashes per second 
+* So it can compute 6,000,000,000,000,000,000 hashes in a second or 6e+18
+* There are 3.1536e+16 seconds in a bilion years
+* 2^256 / 6e+18 / 3.1536e+16 = 6.1195718e+41 - so it will take a a 42 digit number of years to cycle through all combinations (e.g. much longer that the universe has existed)
+* This does not consider Moores law and quantum computing, but bitcoin and other altcoins will most likely have evolved to deal with such threats.
