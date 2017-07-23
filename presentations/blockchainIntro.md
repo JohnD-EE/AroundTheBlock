@@ -325,4 +325,14 @@
 * Network - Large and evenly distributed network (51% Attack)
 * Quantum Computing
 
-##
+## Quantum Computing
+
+* Traditional computing is binary, based on 0 or 1 'bits' of information - transistors
+* A transistor is basically an electronic switch (open or closed)
+* Transistors are combined to make logic gates (AND, OR, NOT...)
+* Quantum bits (qubits) utilise quantum superposition where a qubit can be in a state of zero or one and the whoe range of probabilities n between, as long as they are not observed.
+* But when they are observed they have to be a 0 or 1]
+* Quantum computers would work in a totally different way to classical computers
+* It would be very difficult for a classical computer to calculate the private key to a bitcoin account, but relatively easy for a quantum computer
+* We have no idea when Quantum Computing will be a reality
+* We have no idea about the limits of technology
