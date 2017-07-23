@@ -266,6 +266,19 @@
     * Misconception that we must wait 10 mins for transaction to be processed (mined)
     * Recipient wallet can verify that the transaction is well formed of UTXO
     * If tranasction is very small then retaier could confidently accept it as a valid transaction without waiting for confirmations with little risk.
+* Every transaction costs a fee. This is variable and can be set by the transaction initiator. A higher fee increases the likelihood of faster processing by the miners. 
+
+## Bitcoin Mining
+
+*
+* A new transaction is communicated to the Bitcoin network nodes
+* A temporary list of unverified transactions, maintained by all nodes
+* A miner builds a new block built from unverified transactions list, highest fees first
+* In addition to the transactions, a 'header' is created which contains the hash (e.g. fingerprint) of the previous block 
+* The miner also adds his reward to the list of transactions (new bitcoins are created in the mining process in the form of a reward to the successful miner.
+* The miner calculates the proof of work for this block
+* The first miner to complete the calculation is the winner and has the privilege of adding the block to the chain and collecting a mining reward
+
 
 ## Blockchain Explorers / Scanners
 
