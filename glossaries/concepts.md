@@ -25,7 +25,7 @@
 ## L
 
 ### Locktime
-Locktime can be used tofor delayed transactions. Locktime can be used to specify a block at some point in the future as the earliest time a transaction may be processed.
+With Bitcoin, locktime can be used for delayed transactions. Locktime can be used to specify a block at some point in the future as the earliest time a transaction may be processed.
 
 
 
