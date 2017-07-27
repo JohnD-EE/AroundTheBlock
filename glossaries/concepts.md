@@ -6,6 +6,10 @@
 
 ## C
 
+### Coinbase Transaction
+
+When a block is mined the miner gets a reward. The Coinbase transaction is the first transaction created by the miner to pay itself the reward.
+
 ## D
 
 ## E
