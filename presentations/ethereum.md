@@ -9,7 +9,22 @@
 * Ethereum Foundation
 * EVM
 
+## Ethereum as a Wold Computer
 
+* EVM Ethereum Virtual Machine
+* Single Processer (no multi-threading)
+* Anyone can upload & execute programs
+* Each Program has its own permanent storage that persists between executions
+* The EVM can't be turned off
+
+## Ethereum as an internet service platform for guaranteed computation
+
+* User authentication, via seamless integration of cryptographic signatures
+* Fully customizable payment logic, no reliance on third parties
+* 100% ddos resistant up-time
+* No-fuss secure torage
+* Ultimate interoperability. Everything in the ecosystem interacts with everything else
+* Server free zone: Do not need to set up and maintain servers, let your users pay for service the use.
 
 ## Ethereum Milestone Phases
 
