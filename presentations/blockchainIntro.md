@@ -375,8 +375,7 @@
 * Unicast (encrypted to identity) / Broadcast (encrypted to topic) / Multicast
 * Dapps signalling to collaborate on transactions
 * Transient Datagrams - broadcst a message between groups of ppl that have a limited lifetime
-* Dark comms (privacy) where correspondents know nothing about each other except a hash.
-Messaging between contracts
+* Dark comms (privacy) where correspondents know nothing about each other except a hash. Hide location of sender and receiver.
 * shh protocol
 * Messaging doesn't need consensus and is expensive to be processed on blockchain - needs dedicated protocol
 * Not high-bandwidth point-to-point so can't be like skype
