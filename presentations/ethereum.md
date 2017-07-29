@@ -30,6 +30,7 @@
 * Dark comms (privacy) where correspondents know nothing about each other except a hash. Hide location of sender and receiver.
 * shh protocol
 * Messaging doesn't need consensus and is expensive to be processed on blockchain - needs dedicated protocol
+* Ethereum nodes perform a routing function, passing on the message
 * Not high-bandwidth point-to-point so can't be like skype
 * Gavin Wood Devcon one [YouTube Whisper](https://www.youtube.com/watch?v=U_nPoBVLPiw)
 * [Whisper Wiki](https://github.com/ethereum/wiki/blob/master/Whisper.md)
