@@ -314,7 +314,12 @@
 ## DAO Distributed Autonomous Organisations
 
 
-## Blockchain Use Case Implementations
+## Blockchain is Disruptive Technologe: Use Case Implementations
+
+| Sector | Use Case | Benefits | Implementations | 
+| --- | --- | --- | --- |
+| Banking | Global Settlement Network | Instant, certain, low-cost international payments | [Ripple XRP](https://ripple.com/) |
+
 
 ## Blockchain Threats and Limitations
 * Transaction Speed
