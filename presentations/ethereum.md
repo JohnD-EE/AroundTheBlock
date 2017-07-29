@@ -27,7 +27,7 @@
 * Unicast (encrypted to identity) / Broadcast (encrypted to topic) / Multicast
 * Dapps signalling to collaborate on transactions
 * Transient Datagrams - broadcst a message between groups of ppl that have a limited lifetime
-* Dark comms (privacy) where correspondents know nothing about each other except a hash. Hide location of sender and receiver.
+* Dark comms (privacy) where correspondents know nothing about each other except a hash. Hide location of sender and receiver (via a system of location obfuscation relays).
 * shh protocol
 * Messaging doesn't need consensus and is expensive to be processed on blockchain - needs dedicated protocol
 * Ethereum nodes perform a routing function, passing on the message
