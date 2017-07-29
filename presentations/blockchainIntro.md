@@ -164,7 +164,7 @@
 | Privacy | Bank accounts linked to personal identities | Anonymous |
 | Transparency | Accounts & transactions are private | Account and transaction activity is public |
 | Ease of Tranfer | Can be cumbersome (cheques, international transfers) | Easy |
-| Transaction Speed | Slow to clear | Clears within minutes |
+| Transaction Speed | Slow to clear | Clears within minutes (depends on fees, total transaction burden on the network, confirmations required ) |
 | Security | Fraud is common | Immutable ledger, but you may personally be hacked |
 | Protection | Government protection available | You are solely responsible |
 | Repudiation |   | Depends upon recipient |
@@ -253,11 +253,11 @@
 
 * Inputs and Outputs
    * UTXO - The balance of a bitcoin address is the unspent Transaction Outputs pointing to that address. Outputs from other transactions pointing to a given address. UTXO = curl https://blockchain.info/unspent?active=1JCe8z4jJVNXSjohjM4i9Hh813dLCNx2Sy 
-   * Bitcoin is analogous to how cash moves around a system, rather than balances in a bank account
+   * Bitcoin is analogous to how hard cash (pound notes) moves around the economy, rather than balances in a bank account
    * There is no balance held on the blockchain, the balance for an account (e.g. address) is *derived* from the UTXOs
 * New transaction: 
    * Built from one or more inputs (outputs from previous transactions)  . e.g. composed of loose change
-   * The output(s) of this transactions are inputs into target address. 
+   * The output(s) of this transactions are inputs into a nominated target address (or addresses). 
    * The bitcoin wallet software would reference UTXOs from previous transactions as intputs into the new transaction
    * Encumberance (need to be digital singed by target address in order to be respent)
    * If inputs are larger than transaction size then an output is generated to return payment back to sending address
@@ -270,7 +270,6 @@
 
 ## Bitcoin Mining
 
-*
 * A new transaction is communicated to the Bitcoin network nodes
 * A temporary list of unverified transactions, maintained by all nodes
 * A miner builds a new block built from unverified transactions list, highest fees first
