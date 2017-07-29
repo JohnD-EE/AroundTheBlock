@@ -319,7 +319,7 @@
 | Sector | Use Case | Benefits | Implementations | 
 | --- | --- | --- | --- |
 | Banking | Global Settlement Network | Instant, certain, low-cost international payments | [Ripple XRP](https://ripple.com/) |
-
+| Data Storage | Distributed, Encrypted, Cloud Storage | File Storage, cheaper, cryptographically secured, redundnacy, payments for renting storage | [Sia](http://sia.tech/), [Storj](https://storj.io/) | 
 
 ## Blockchain Threats and Limitations
 * Transaction Speed
