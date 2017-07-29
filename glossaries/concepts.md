@@ -52,6 +52,12 @@ With Bitcoin, locktime can be used for delayed transactions. Locktime can be use
 
 ## T 
 
+# Turing Completeness
+
+* Can do everything a turing machine can do.  A turing machine is an infinite loop of tape containing zeros and ones
+* Must support conditional branching (if statment and 'go to') 
+* Arbitrary memory - Must be able to have access to as much memory (e.g. tape in either direction) as you need.
+
 ## U
 
 ## V
