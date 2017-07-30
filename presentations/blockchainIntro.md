@@ -73,7 +73,7 @@
 * Over lending - E.g. Sub Prime Mortgages
 * Bank Runs (Royal Bank of Scotland)
 * Bailouts - 'Too big to fail' (Privatisation of Profits, Socialisation of risk)
-* Fraud, corruption and bank scandals (Libor, PPI)
+* Fraud, counterfeitting, corruption and bank scandals (Libor, PPI)
 * Quantitative Easing
 * Inflation and Hyperinflation
 * UK Debt = £1.7 Trillion, nearly £1 Billion per week in interest
@@ -96,6 +96,7 @@
 * Decentralised Trust - Trustless Transactions
 * Open Source codebase - [Bitcoin on Github](https://github.com/bitcoin/bitcoin)
 * Truth is in the public ledger & network consensus.
+* Counterfeitting virtuall impossible
 * Free Market, Capitalism, no intervention
 * Responsibility with user - you are your own bank - Private / Public key pairs
 * Evolution through signalling (e.g. Segwit)
