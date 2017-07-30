@@ -89,6 +89,8 @@
 ## Bitcoin
 
 * No Bitcoin CEO, No Bitcoin buildings or HQ, no central authority
+* No physical coin
+* Divisible to 8 Decimal Places - .000000001 BTC = 1 Satoshi  
 * Distributed and immutable public ledger
 * Peer to Peer, processing transactions via mining nodes - no need for intermediaries such as financial institutions.
 * Decentralised Trust - Trustless Transactions
@@ -96,7 +98,7 @@
 * Truth is in the public ledger & network consensus.
 * Free Market, Capitalism, no intervention
 * Responsibility with user - you are your own bank - Private / Public key pairs
-* Evolution through voting (e.g. Segwit)
+* Evolution through signalling (e.g. Segwit)
 
 
 
