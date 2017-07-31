@@ -43,7 +43,7 @@
 ## History of Money
 
 * Barter
-* Cowry Shells / Beads / Giant Stones / Tally Sticks / Precious Metals
+* Cowry Shells / Beads / Giant Stones (Island of Yap, Micronesia) / Tally Sticks / Precious Metals
 * Tokenised Barter, a representation of value
 * Anglo-Saxon Pound of Silver - Sterling
 * 17th Century Goldsmith Banking - Birth of Modern Banking
