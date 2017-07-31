@@ -321,7 +321,7 @@
 
 | Sector | Use Case | Benefits | Implementations | 
 | --- | --- | --- | --- |
-| Banking | Global Settlement Network | Instant, certain, low-cost international payments | [Ripple XRP](https://ripple.com/) |
+| Banking | Global Settlement Network | Instant, certain, low-cost international (Bank to Bank) payments | [Ripple XRP](https://ripple.com/) |
 | Data Storage | Distributed, Encrypted, Cloud Storage | File Storage, cheaper, cryptographically secured, redundnacy, payments for renting storage | [Sia](http://sia.tech/), [Storj](https://storj.io/) | 
 | Prediction Markets |  |  | Augur Golem |
 | Gambling (Casino) |  |  | FunFair |
@@ -337,6 +337,8 @@
 | Asset Management (Global Asset Management) | Secure transfer of assets within an organisation or supply chain |  |  |
 |  |  |  |  |
 |  |  |  |  |
+| Private Securities | Issuing share capital to investors |  |  |
+| Syndicated Loands | a loan offered by a group of lenders (syndicate) working together to provide funds for a single borrower |  | |
 
 ## Blockchain Threats and Limitations
 * Transaction Speed
