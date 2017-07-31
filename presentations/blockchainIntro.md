@@ -323,6 +323,20 @@
 | --- | --- | --- | --- |
 | Banking | Global Settlement Network | Instant, certain, low-cost international payments | [Ripple XRP](https://ripple.com/) |
 | Data Storage | Distributed, Encrypted, Cloud Storage | File Storage, cheaper, cryptographically secured, redundnacy, payments for renting storage | [Sia](http://sia.tech/), [Storj](https://storj.io/) | 
+| Prediction Markets |  |  | Augur Golem |
+| Gambling (Casino) |  |  | FunFair |
+| Gambling (Sports) |  |  | Wagerr |
+| HealthCare |  |  |  |
+| Music |  |  |  |
+| Insurance |  |  |  |
+| Government (Foreign Aid) |  |  |  |
+| Advertising |  |  | BAT |
+| Supply Chain | Farm to Table |  |  |
+| Internet of Things IoT |  |  |  |
+| Property Ownership |  |  |  |
+| Asset Management (Global Asset Management) | Secure transfer of assets within an organisation or supply chain |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ## Blockchain Threats and Limitations
 * Transaction Speed
