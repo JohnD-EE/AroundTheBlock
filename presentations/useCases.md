@@ -1,4 +1,15 @@
-### Blockchain in Asset Management
+# Finding Opportunities for Blockchain
+
+| Characteristic | Description |
+| --- | --- |
+| Transaction of Value |    |
+| Ecosystem | Many players, busy market, complex, many intermediaries  |
+| Broken Markets | Cumbersome processes (e.g. real estate), markets with lack of trust, lack of trust, slow (paper based), lots of intermediaries |
+| Complex Rules | Enforceable rules, potential for automation |
+| Marekt Friction | Transaction Speed is important, frees up working capital, counterparty risk (e.g. accounts payable - are the funds committed?) |
+| Governence | Information for regulators |
+
+# Blockchain in Asset Management
 
 ## What is Asset Management
 
