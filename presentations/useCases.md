@@ -2,7 +2,7 @@
 
 | Characteristic | Description |
 | --- | --- |
-| Transaction of Value |    |
+| Transaction of Value | Moving value between parties |
 | Ecosystem | Many players, busy market, complex, many intermediaries  |
 | Broken Markets | Cumbersome processes (e.g. real estate), markets with lack of trust, lack of trust, slow (paper based), lots of intermediaries |
 | Complex Rules | Enforceable rules, potential for automation |
