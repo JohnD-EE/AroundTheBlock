@@ -339,6 +339,9 @@
 |  |  |  |  |
 | Private Securities | Issuing share capital to investors |  |  |
 | Syndicated Loands | a loan offered by a group of lenders (syndicate) working together to provide funds for a single borrower |  | |
+| Loyalty |  | loyyal |
+| Social Loyalty | give people tokens instead of welfare benefits |  |  |
+| Business Identity & Authorisation | When a SME has to provide 'proove' it's reputation, provide documents & recordsetc for proof | Removes the headache of having to provide same proof over and over again |  |
 
 ## Blockchain Threats and Limitations
 * Transaction Speed
