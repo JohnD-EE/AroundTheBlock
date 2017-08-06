@@ -43,8 +43,9 @@
 ## History of Money
 
 * Barter
-* Cowry Shells / Beads / Giant Stones (Island of Yap, Micronesia) / Tally Sticks / Precious Metals
+* Cowry Shells / Beads / Giant Stones (Island of Yap, Micronesia) / Tally Sticks / Precious Metals = Connodity Money
 * Tokenised Barter, a representation of value
+* Promisory Notes
 * Anglo-Saxon Pound of Silver - Sterling
 * 17th Century Goldsmith Banking - Birth of Modern Banking
 * International Gold Standard, convertabily to gold - 1874 - 1914
