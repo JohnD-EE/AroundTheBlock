@@ -10,7 +10,7 @@ Annotations on the Satoshi Nakamoto White Paper
 payments to be sent directly from one party to another without going through a
 financial institution. 
 
-The abstract opens with an emphasis on doing transactions ditectle between people, rather than having to go through an intermediary like a bank.
+The abstract opens with an emphasis on doing transactions dieectly between people, rather than having to go through an intermediary like a bank.
 
 > Digital signatures provide part of the solution, but the main
 benefits are lost if a trusted third party is still required to prevent double-spending.
