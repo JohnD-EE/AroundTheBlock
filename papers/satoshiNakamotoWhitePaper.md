@@ -199,7 +199,7 @@ linking the transaction to the block it's timestamped in. He can't check the tra
 himself, but by linking it to a place in the chain, he can see that a network node has accepted it,
 and blocks added after it further confirm the network has accepted it.
 
-IMAGE
+![Longest Proof-of-work chain](https://i1.wp.com/blog.blockchain.com/wp-content/uploads/2015/12/pow-bitcoin-whitepaper-satoshi.png?zoom=1.5&resize=827%2C366&ssl=1)
 
 > As such, the verification is reliable as long as honest nodes control the network, but is more
 vulnerable if the network is overpowered by an attacker. While network nodes can verify
