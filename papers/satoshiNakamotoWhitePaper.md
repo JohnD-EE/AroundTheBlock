@@ -116,7 +116,7 @@ effort has been expended to make it satisfy the proof-of-work, the block cannot 
 without redoing the work. As later blocks are chained after it, the work to change the block
 would include redoing all the blocks after it.
 
-![Proof of Work](https://cdn-images-1.medium.com/max/1200/1*ViloxU2JfXUbJ1oq6-KBMw.png)
+![Proof of Work](http://believeinbitcoin.com/wp-content/uploads/2015/12/bitcoin-proof-of-work.png)
 
 > The proof-of-work also solves the problem of determining representation in majority decision
 making. If the majority were based on one-IP-address-one-vote, it could be subverted by anyone
