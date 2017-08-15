@@ -34,21 +34,35 @@ proof-of-work chain as proof of what happened while they were gone.
 > Commerce on the Internet has come to rely almost exclusively on financial institutions serving as
 trusted third parties to process electronic payments. While the system works well enough for
 most transactions, it still suffers from the inherent weaknesses of the trust based model.
-Completely non-reversible transactions are not really possible, since financial institutions cannot
+
+By 'trust based model', Satoshi means that payments rely on a trusted central authority like a bank.
+
+> Completely non-reversible transactions are not really possible, since financial institutions cannot
 avoid mediating disputes. The cost of mediation increases transaction costs, limiting the
 minimum practical transaction size and cutting off the possibility for small casual transactions,
 and there is a broader cost in the loss of ability to make non-reversible payments for nonreversible
 services. With the possibility of reversal, the need for trust spreads. Merchants must
 be wary of their customers, hassling them for more information than they would otherwise need.
-A certain percentage of fraud is accepted as unavoidable. These costs and payment uncertainties
+A certain percentage of fraud is accepted as unavoidable. 
+
+The cost of transactions involves a fee to cover disputes and refunds. Buyers can take advantage of seller, who have to be wary of fraud. Mincropayments or digital payments between friends are not feasible. Satoshi promotes the idea of non-reversable transactions, payments where no refunds or mediation is possible which would make them cheaper.
+
+> These costs and payment uncertainties
 can be avoided in person by using physical currency, but no mechanism exists to make payments
 over a communications channel without a trusted party
 
+With notes and coins you can do small micro payments and non-reversible transactions, but not with current digital payments.
+
 > What is needed is an electronic payment system based on cryptographic proof instead of trust,
 allowing any two willing parties to transact directly with each other without the need for a trusted
-third party. Transactions that are computationally impractical to reverse would protect sellers
-from fraud, and routine escrow mechanisms could easily be implemented to protect buyers. In
-this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed
+third party. 
+
+Satoshi introduces 'cryptographic proof' as a way of ensuring a buyer has the money available to pay the seller.
+
+> Transactions that are computationally impractical to reverse would protect sellers
+from fraud, and routine escrow mechanisms could easily be implemented to protect buyers.
+
+> In this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed
 timestamp server to generate computational proof of the chronological order of transactions. The
 system is secure as long as honest nodes collectively control more CPU power than any
 cooperating group of attacker nodes.
