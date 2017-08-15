@@ -219,7 +219,7 @@ transactions contain multiple inputs and outputs. Normally there will be either 
 from a larger previous transaction or multiple inputs combining smaller amounts, and at most two
 outputs: one for the payment, and one returning the change, if any, back to the sender. 
 
-IMAGE
+!{Combining and Splitting Value}(http://believeinbitcoin.com/wp-content/uploads/2015/12/bitcoin-combinging-and-splitting-value.png)
 
 > It should be noted that fan-out, where a transaction depends on several transactions, and those
 transactions depend on many more, is not a problem here. There is never the need to extract a
