@@ -74,7 +74,7 @@ next by digitally signing a hash of the previous transaction and the public key 
 and adding these to the end of the coin. A payee can verify the signatures to verify the chain of
 ownership.
 
-IMAGE HERE
+![Transactions](http://satoshinakamoto.me/wp-content/uploads/2016/10/bitcoin-transaction.png)
 
 > The problem of course is the payee can't verify that one of the owners did not double-spend
 the coin. A common solution is to introduce a trusted central authority, or mint, that checks every
