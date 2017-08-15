@@ -235,7 +235,7 @@ an amount to someone else, but without information linking the transaction to an
 similar to the level of information released by stock exchanges, where the time and size of
 individual trades, the "tape", is made public, but without telling who the parties were.
 
-IMAGE
+![Privacy](http://believeinbitcoin.com/wp-content/uploads/2015/12/bitcoin-privacy-model.png)
 
 > As an additional firewall, a new key pair should be used for each transaction to keep them
 from being linked to a common owner. Some linking is still unavoidable with multi-input
