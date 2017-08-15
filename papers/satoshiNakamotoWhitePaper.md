@@ -74,7 +74,7 @@ next by digitally signing a hash of the previous transaction and the public key 
 and adding these to the end of the coin. A payee can verify the signatures to verify the chain of
 ownership.
 
-![Transactions](http://satoshinakamoto.me/wp-content/uploads/2016/10/bitcoin-transaction.png)
+![Transactions](http://believeinbitcoin.com/wp-content/uploads/2015/12/bitcoin-blockchain-transactions.png)
 
 > The problem of course is the payee can't verify that one of the owners did not double-spend
 the coin. A common solution is to introduce a trusted central authority, or mint, that checks every
@@ -94,12 +94,13 @@ majority of nodes agreed it was the first received.
 
 ## 3. Timestamp Server
 
-The solution we propose begins with a timestamp server. A timestamp server works by taking a
+> The solution we propose begins with a timestamp server. A timestamp server works by taking a
 hash of a block of items to be timestamped and widely publishing the hash, such as in a
 newspaper or Usenet post [2-5]. The timestamp proves that the data must have existed at the
 time, obviously, in order to get into the hash. Each timestamp includes the previous timestamp in
 its hash, forming a chain, with each additional timestamp reinforcing the ones before it.
 
+![TimestampeServer](https://cdn-images-1.medium.com/max/1200/1*KuoHQ-RrVvUWRkM3XprrZg.png)
 
 ## 4. Proof-of-Work
 
