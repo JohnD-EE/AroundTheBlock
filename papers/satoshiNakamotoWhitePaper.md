@@ -1,4 +1,4 @@
-Source: (https://bitcoin.org/bitcoin.pdf)[https://bitcoin.org/bitcoin.pdf]
+Source: [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 Annotations on the Satoshi Nakamoto White Paper
 
