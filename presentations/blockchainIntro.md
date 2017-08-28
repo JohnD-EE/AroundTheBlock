@@ -132,6 +132,7 @@
 * Buying bitcoin
 * Legalities
 * Transactions & confirmations
+* There is no concept of a balance, merely unspent transactions
 
 
 ## Bitcoin Blockchain
