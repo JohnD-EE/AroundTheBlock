@@ -9,21 +9,31 @@ How the historical reactions to technology changes are not disimilar to today's 
 
 ### Gutenberg printing press
 
-
 ### Paper Money
 
 ### Electricity
-
 
 ### The Motor Car
 
 ### The Telephone
 
+### Plastic Money
+
 ### IBM Computers
 
+### Mobile Phone
+
+### Linux
+
+### Internet
+
+### Wikipedia
+
+### Uber
 
 ### Tesla Self Driving Cars
 
-
 ### Bitcoin
+
+### Hyperloop
 
