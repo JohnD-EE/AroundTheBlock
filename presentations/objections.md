@@ -1,5 +1,12 @@
 # Overcoming Objections to Bitcoin and Blockchain
 
+Intro:
+We are pleasure seeking, pain avoiding creatures. Driven by emotions, a slave to our passions.  Our intellect, our seat of reason is rarely engaged in our everyday lives. We kid ourselves that we are mainly rational beings, and distance ourselves from the savage, territorial attributes of the anumal kingdom.  But the key to our very survival has been our animalistic drives to dominance etc...
+
+Slaves to our natural instincts 
+
+Fear, Pride, envy, love, hatred, empathy, pity, disgust, regret, anger, sorrow, joy, anxiety, neurosis, contempt, guilt, shame, disdain, awe, terror, ecstacy, rage, 
+
 ### Governments will probably ban it, making you a criminal if you have bitcoins
 
 ### It's a Ponzi Scheme / Fraud / Scam
