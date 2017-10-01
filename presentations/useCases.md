@@ -1,3 +1,42 @@
+Use Cases:
+It could be connected to GPS data that automatically releases payment to both the shipper and supplier when a package arrives.
+
+Supply chain - faster payments - payments happen as soon as smart contract has confirmed that the service has been recieved.  Avoid the invoice game.
+
+Event ticketing
+
+Registries: Land, Property, Driving laicenses, passports
+
+Intellectual Property ownlership
+
+Internet of Things
+
+Asset Management - 
+
+Personal Identity Proofs, Business Identity Proofs - re-use identities.   Loans, mortgages, insurance,   Checking, authentication, authorisation.
+
+Banking the unbanked, unbanking the banked.
+
+Payments: Cross Border, High Value, Fast, Transparent
+
+Tokenising assets (company shares), digitisation of assets
+
+Distributed file storage
+
+Distributed processing
+
+Digital Voting
+
+Tracability Governemtn Spending
+
+Charities
+
+Energy Trades, consumption, buying / selling - Oil, Gas, Electricity
+
+Financial Derivatives
+
+Transparent accounting (Tesco Accounting Scandal)
+
 # Finding Opportunities for Blockchain
 
 | Characteristic | Description |
