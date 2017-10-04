@@ -8,7 +8,7 @@ Immutable (Secure, unhackable, Fraud proof, Counterfeitting proof, no central po
 
 Trustless - No appeal to authority / no permission needed / Dis-intermediation (reduce middleman costs) - no 3rd parties / no counterparty risk (Obligations are contracturally enforced), accountability
 
-Autonomous, Self governing, self executable (event triggered) transactions, Smart Contracts (State, conditions, triggers)
+Autonomous, Self governing, self executable (event triggered) transactions, Smart Contracts (State, conditions, triggers, self enforced rules)
 
 Built in Economic System / Programmable Money / Accoutns / Wallets / Payments / Transactions (fast and cheap)
 
