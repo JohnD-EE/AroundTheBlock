@@ -1,8 +1,8 @@
-Properties
+Properties:  
 
-Decentralised (Peer to Peer, distributed ledger (simplified - don't need multiple accounts of same info), reduced infrastructure costs)
+Decentralised (Peer to Peer, distributed ledger (simplified - don't need multiple accounts of same info), reduced infrastructure costs), 
 
-Transparent Truth (Open, Traceability, democratic)
+Transparent Truth (Open, Traceability, democratic, open to scrutiny)
 
 Immutable (Secure, unhackable, Fraud proof, Counterfeitting proof, no central point of failure, provenance of assets, accurate data, data is easily accessible)
 
@@ -12,9 +12,9 @@ Autonomous, Self governing, self executable (event triggered) transactions, Smar
 
 Built in Economic System / Programmable Money / Accoutns / Wallets / Payments / Transactions (fast and cheap)
 
-Empowered Users (dumb network protocol, intelligence at the clients, no more 'master/slave', Pseudonymous), Choice and control to users (Identity), Users control their transactions and information
+Empowered Users (dumb network protocol, intelligence at the clients, no more 'master/slave', Pseudonymous), Choice and control to users (Identity), Users control their transactions and information, Equitable, accessible, global (Crosses borders, non-discriminatory)
 
-Global
 
-Equitable 
+
+
 
