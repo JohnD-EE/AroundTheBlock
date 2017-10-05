@@ -10,7 +10,7 @@ Trustless - No appeal to authority / no permission needed / Dis-intermediation (
 
 Autonomous, Self governing, self executable (event triggered) transactions, Smart Contracts (State, conditions, triggers, self enforced rules)
 
-Built in Economic System / Programmable Money / Accoutns / Wallets / Payments / Transactions (fast and cheap)
+Built in Economic System / Programmable Money / Accoutns / Wallets / Payments (including MicroPayments) / Transactions (fast and cheap)
 
 Empowered Users (dumb network protocol, intelligence at the clients, no more 'master/slave', Pseudonymous), Choice and control to users (Identity), Users control their transactions and information, Equitable, accessible, global (Crosses borders, non-discriminatory)
 
